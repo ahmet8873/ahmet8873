@@ -12,6 +12,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://www.linkedin.com/in/ahmet-avci-1b6948229/" target="_blank"><img src="LINKEDIN_ICON_URL" alt="LinkedIn" width="30" height="30"></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
