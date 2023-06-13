@@ -1,4 +1,4 @@
-[![Header](https://giphy.com/embed/qgQUggAC3Pfv687qPC]
+
 
 
 <h1 align="center">Hi 👋, I'm Ahmet</h1>
