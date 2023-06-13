@@ -4,6 +4,8 @@
 <h1 align="center">Hi 👋, I'm Ahmet</h1>
 <h3 align="center">A passionate full stack developer student</h3>
 
+img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..."
+
 - 🔭 I’m currently learning **mern-stack**
 
 - 📫 How to reach me **ahmetavci.8873@gmail.com**
