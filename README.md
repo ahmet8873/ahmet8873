@@ -1,4 +1,4 @@
-![MasterHead]([https://media.licdn.com/dms/image/D4E16AQGf7vFLRG7Wuw/profile-displaybackgroundimage-shrink_350_1400/0/1686869900962?e=1693440000&v=beta&t=ZpLH_a_6osKnqjYlx-4m0DQS8iCWrbtDe-_kYdmReog](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif))
+
 
 
 <h1 align="center">Hi 👋, I'm Ahmet</h1>
