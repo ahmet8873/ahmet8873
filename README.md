@@ -18,7 +18,8 @@
 
 <h3 align="left">HackYourFuture Diploma Project</h3>
  [HackYourFuture Class 44 Project Group A](https://github.com/HackYourFuture/class44-project-group-A)
-Check out the live version [here](https://c44-group-a-574c03ac3629.herokuapp.com/)
+### Live Version
+Check out the live version [here](https://c44-group-a-574c03ac3629.herokuapp.com/).
 
 
 <h3 align="left">Languages and Tools:</h3>
