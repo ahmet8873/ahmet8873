@@ -17,7 +17,7 @@
 </p>
 
 <h3 align="left">HackYourFuture Diploma Project</h3>
-[** Social Network for Refugees "AzielNet"**](https://c44-group-a-574c03ac3629.herokuapp.com/) ([https://github.com/HackYourFuture/class44-project-group-A](https://github.com/HackYourFuture/class44-project-group-A)
+ [**Diploma Project - Social Network For Refugees "AzielNet"**](https://c44-group-a-574c03ac3629.herokuapp.com/) ([https://github.com/HackYourFuture/class44-project-group-A](https://github.com/HackYourFuture/class44-project-group-A)
 
 
 <h3 align="left">Languages and Tools:</h3>
