@@ -15,7 +15,7 @@
 - 💟  Hobbies: ⚽️ football , 🛝playing with my son, 🏕camping .
 
 
-- 📫 How to reach me **ahmetavci.8873@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
