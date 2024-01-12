@@ -4,7 +4,7 @@
 <h1 align="center">Hey there!</h1>
 <h3 align="center">I am a passionate full stack web developer</h3>
 
-
+<h3 align="left">About Me</h3>
 - 🔭 I've graduated from [HackYourFuture](https://www.hackyourfuture.net/)
 
 - 📫 How to reach me **ahmetavci.8873@gmail.com**
