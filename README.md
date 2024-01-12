@@ -1,8 +1,8 @@
 
 
 
-<h1 align="center">Hey there!</h1>
-<h3 align="center">I am a passionate full stack web developer</h3>
+<h1 align="left">Hey there!</h1>
+<h3 align="left">I am a passionate full stack web developer</h3>
 
 
 ### :technologist: About Me:
